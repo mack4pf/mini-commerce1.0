@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Camera Lens",
+    "slug": "camera-lens",
+    "price": 150,
+    "image": "https://picsum.photos/id/101/200/200",
+    "description": "High-quality camera lens for professional photography."
+  },
+  {
+    "id": "2",
+    "name": "Tripod Stand",
+    "slug": "tripod-stand",
+    "price": 80,
+    "image": "https://picsum.photos/id/102/200/200",
+    "description": "Durable tripod stand for stable shots."
+  },
+  {
+    "id": "3",
+    "name": "Drone",
+    "slug": "drone",
+    "price": 400,
+    "image": "https://picsum.photos/id/103/200/200",
+    "description": "A lightweight drone with HD camera."
+  },
+  {
+    "id": "4",
+    "name": "Studio Light",
+    "slug": "studio-light",
+    "price": 120,
+    "image": "https://picsum.photos/id/104/200/200",
+    "description": "Soft light for studio photography."
+  },
+  {
+    "id": "5",
+    "name": "Camera Bag",
+    "slug": "camera-bag",
+    "price": 60,
+    "image": "https://picsum.photos/id/15/200/200",
+    "description": "Waterproof camera bag for carrying gear."
+  },
+  {
+    "id": "6",
+    "name": "Memory Card",
+    "slug": "memory-card",
+    "price": 25,
+    "image": "https://picsum.photos/id/106/200/200",
+    "description": "64GB fast memory card."
+  },
+  {
+    "id": "7",
+    "name": "Microphone",
+    "slug": "microphone",
+    "price": 95,
+    "image": "https://picsum.photos/id/107/200/200",
+    "description": "Professional-grade microphone for audio recording."
+  },
+  {
+    "id": "8",
+    "name": "Editing Software",
+    "slug": "editing-software",
+    "price": 250,
+    "image": "https://picsum.photos/id/108/200/200",
+    "description": "Premium video and photo editing software."
+  },
+  {
+    "id": "9",
+    "name": "laptop",
+    "slug": "laptop",
+    "price": 150,
+    "image": "https://picsum.photos/id/18/200/200",
+    "description": "Premium video and photo editing software."
+  }
+]
