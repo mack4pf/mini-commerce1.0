@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# 🛒 Mini-Commerce — E-commerce Frontend Demo
 
-First, run the development server:
+A responsive client-side e-commerce app built with **Next.js 14**, **React Query**, **Zustand**, and **Tailwind CSS**.
+Users can browse products, manage a cart, and go through a mock checkout — with state saved in **localStorage**.
+
+---
+
+## 🚀 Live Demo
+
+[https://mini-commerce-blush.vercel.app/](https://mini-commerce-blush.vercel.app/)
+
+---
+
+## 🛠️ Stack & Tools
+
+* **Next.js 14 (App Router)**
+* **React Query** (Data fetching & caching)
+* **Zustand** (State management with localStorage persistence)
+* **Tailwind CSS** (Utility-first CSS)
+* **TypeScript (strict mode)**
+
+---
+
+## 🛒 Features
+
+* Browse **30+ products** with images, names, and prices
+* **Search** functionality on homepage
+* **Product detail page** with "Add to Cart"
+* **Cart page** — View, remove, update quantity, clear cart
+* **Checkout page** with order confirmation
+* **Cart persists on page reload**
+
+---
+
+## 🎨 Design Approach
+
+* **Mobile-first responsive grid**
+* Clean layout with sticky navbar
+* Accessibility in forms and buttons
+* Modern look using Tailwind utilities
+
+---
+
+## ⚙️ Error Handling
+
+* Loading & Error states for product fetching
+* Cart empty state handling
+* Fallback UI for missing routes
+
+---
+
+## 📝 Testing
+
+* Simple **React Testing Library** test for Cart page render
+
+---
+
+## 🗂️ Project Setup
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun run dev
+npm install  
+npm run dev  
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📄 License
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Free for personal or educational use.
